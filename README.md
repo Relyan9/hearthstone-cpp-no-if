@@ -1,0 +1,1 @@
+# hearthstone-cpp-no-if
